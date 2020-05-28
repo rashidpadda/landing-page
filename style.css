@@ -1,0 +1,29 @@
+.body{
+    margin: 0;
+    padding:0;
+}
+.navbar-brand{
+  font-size: 2em;
+}
+.headerBox{
+    background-image: url('./images/Banner.jpeg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    min-height: 90vh;
+    border-radius: 0;
+   
+;
+}
+.custom-nav .navbar-nav .nav-item a{
+    color: white;
+   
+
+}
+
+.custom-nav .navbar-nav .nav-item a:hover{
+    color: #F0AAB1;
+}
+a{
+    color:#DC3545;
+}
